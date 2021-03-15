@@ -1,0 +1,20 @@
+[
+  {
+    "id": 64321,
+    "libelle": "Projet",
+    "acronyme": "PRJG5",
+    "credits": 5
+  },
+  {
+    "id": 64322,
+    "libelle": "Odoo",
+    "acronyme": "ERPG5",
+    "credits": 3
+  },
+  {
+    "id": 64323,
+    "libelle": "Stage",
+    "acronyme": "TEX5",
+    "credits": 1
+  }
+]

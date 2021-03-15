@@ -1,0 +1,43 @@
+{
+	"students": [
+		{
+			"numbers": 42969,
+			"bulletin": [
+				{
+					"UE": "CAI1",
+					"acquis": false
+				},
+				{
+					"UE": "INT1",
+					"acquis": true
+				}
+			]
+		},
+		{
+			"numbers": 42991,
+			"bulletin": [
+				{
+					"UE": "DEV3",
+					"acquis": false
+				}
+			]
+		},
+		{
+			"numbers": 51603,
+			"bulletin": [
+				{
+					"UE": "MOBG5",
+					"acquis": false
+				},
+				{
+					"UE": "ERPG5",
+					"acquis": true
+				},
+				{
+					"UE": "DONG5",
+					"acquis": false
+				}
+			]
+		}
+	]
+}

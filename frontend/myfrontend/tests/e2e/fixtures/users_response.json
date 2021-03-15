@@ -1,0 +1,6 @@
+{
+    "username" : "admin5@admin.com",
+    "password" : "admin5",
+    "isStaff" : true,
+    "isDirector" : true
+}

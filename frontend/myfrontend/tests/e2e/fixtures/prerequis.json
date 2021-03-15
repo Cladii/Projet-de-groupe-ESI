@@ -1,0 +1,10 @@
+[
+    {
+        "selected": "ORG",
+        "prerequis":"CPT1"
+    },
+    {
+        "selected":"CPT2",
+        "prerequis":"MAT1"
+    }
+]

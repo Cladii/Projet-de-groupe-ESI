@@ -1,0 +1,26 @@
+[
+    {
+        "username": "admin@admin.com",
+        "password": "admin",
+        "isStaff": true,
+        "isDirector": true
+    },
+    {
+        "username": "admin2@admin.com",
+        "password": "admin2",
+        "isStaff": false,
+        "isDirector": true
+    },
+    {
+        "username": "admin3@admin.com",
+        "password": "admin3",
+        "isStaff": true,
+        "isDirector": false
+    },
+    {
+        "username" : "admin4@admin.com",
+        "password" : "admin4",
+        "isStaff" : false,
+        "isDirector" : false
+    }
+]
